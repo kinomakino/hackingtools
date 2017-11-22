@@ -10,6 +10,12 @@ http://xfnwyig7olypdq5r.onion/
 http://newpdsuslmzqazvr.onion/
 http://smoker32pk4qt3mx.onion/
 
+
+https://hacking-etico.com/2013/08/27/anonimato-con-tor-y-proxychains/
+
+instALAR TOR BROWSER EN EQUIPO NATIVO
+
+
 Shodan
 Mrlooquer.com
 https://centralops.net/co/
