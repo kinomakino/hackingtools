@@ -33,6 +33,9 @@ http://kinomakino.blogspot.com.es/2012/04/dradis-que-te-quiero-dradis.html
 
 http://kinomakino.blogspot.com.es/2014/11/faraday-un-ide-para-pentesting.html
 
+http://kinomakino.blogspot.com.es/2016/08/geolocalizacion-ip-en-capturas.html
+
+
 
 
 RECURSOS EXPLICADOS DEL MIERCOLES.
