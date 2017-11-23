@@ -15,6 +15,17 @@ https://hacking-etico.com/2013/08/27/anonimato-con-tor-y-proxychains/
 
 instALAR TOR BROWSER EN EQUIPO NATIVO
 
+http://kinomakino.blogspot.com.es/2016/06/https-ensename-tu-ssl-script-ssl-labs.html
+
+analizar--reglas.
+
+http://kinomakino.blogspot.com.es/2017/01/burp-proxy-free-vs-zap-proxy-intruder.html
+
+http://kinomakino.blogspot.com.es/2012/04/dradis-que-te-quiero-dradis.html
+
+http://kinomakino.blogspot.com.es/2014/11/faraday-un-ide-para-pentesting.html
+
+
 
 Shodan
 Mrlooquer.com
