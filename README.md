@@ -7,6 +7,8 @@ caja de herramientas portatil
 http://tuxdiary.com/2015/11/16/resolve-dns-tor/
 
 
+TRABAJO PARA JUEVES.
+
 https://hacking-etico.com/2013/08/27/anonimato-con-tor-y-proxychains/
 
 instALAR TOR BROWSER EN EQUIPO NATIVO
@@ -33,7 +35,7 @@ http://kinomakino.blogspot.com.es/2014/11/faraday-un-ide-para-pentesting.html
 
 
 
-
+RECURSOS EXPLICADOS DEL MIERCOLES.
 
 Shodan
 Mrlooquer.com
