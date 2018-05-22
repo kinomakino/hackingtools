@@ -91,7 +91,7 @@ Burp spider
 https://celeritastransporte.com/seguimiento-paquete-pedidos/. 3940
 https://www.seur.com/livetracking/pages/seguimiento-online-busqueda.do?faces-redirect=true&segOnlineIdioma=es 234234
 
-
+use post/windows/gather/smart_hashdump
 
 
 
