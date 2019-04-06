@@ -23,9 +23,7 @@ http://smoker32pk4qt3mx.onion/
 
 http://kinomakino.blogspot.com.es/2017/01/burp-proxy-free-vs-zap-proxy-intruder.html
 
-http://kinomakino.blogspot.com.es/2012/04/dradis-que-te-quiero-dradis.html
 
-http://kinomakino.blogspot.com.es/2014/11/faraday-un-ide-para-pentesting.html
 
 http://kinomakino.blogspot.com.es/2016/08/geolocalizacion-ip-en-capturas.html
 
