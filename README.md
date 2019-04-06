@@ -38,6 +38,10 @@ Shodan
 Mrlooquer.com
 https://centralops.net/co/
 https://hackertarget.com/
+valor.es
+
+
+
 https://pastebin.com/
 https://dnsdumpster.com/
 https://pentest-tools.com/information-gathering/find-subdomains-of-domain
@@ -48,9 +52,7 @@ cloudflare
 http://toolbar.netcraft.com/site_report?url=pccomponentes.es
 Google dorks
 https://www.exploit-db.com/ghdb/4612/
-Honeypot de arriba 
 
-http://rutter.ca/security/xamppsecurity.php
 
 
 
@@ -63,12 +65,17 @@ whatweb 
 nmap -sV -sC
 Foca
 nikto -h
+
 Cambiar user-agent User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36 
 dnsmap azud.com -w /usr/share/wordlists/dnsmap.txt
+
+
 nmap -Pn -T05 
 Ex: -p22; -p1-65535
 nmap --script=http-waf-fingerprint 81.47.192.13
 nmap -p80 --script http-waf-detect 81.47.192.13
+
+
 wpscan -u
 ^User-Agent: WPScan v2.9.2 .*$
 User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36 
