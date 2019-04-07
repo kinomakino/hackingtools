@@ -28,19 +28,6 @@ http://kinomakino.blogspot.com.es/2017/01/burp-proxy-free-vs-zap-proxy-intruder.
 http://kinomakino.blogspot.com.es/2016/08/geolocalizacion-ip-en-capturas.html
 
 
-
-
-RECURSOS EXPLICADOS DEL MIERCOLES.
-
-Shodan
-Mrlooquer.com
-https://centralops.net/co/
-https://hackertarget.com/
-valor.es
-
-
-
-https://pastebin.com/
 https://dnsdumpster.com/
 https://pentest-tools.com/information-gathering/find-subdomains-of-domain
 https://archive.org/
