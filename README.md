@@ -42,5 +42,7 @@ https://www.seur.com/livetracking/pages/seguimiento-online-busqueda.do?faces-red
 
 use post/windows/gather/smart_hashdump
 
+para auditar sql servers...
+https://github.com/NetSPI/PowerUpSQL
 
 
